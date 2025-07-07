@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="200" alt="avatar" style="border-radius:50%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ponlaklit Nianparn</h1>
 <h3 align="center">Aspiring Developer | C++ · Python · Embedded · AI</h3>
 
@@ -20,7 +24,7 @@
 - 🎓 I'm currently learning **C++, Python, Machine Learning, and Embedded Systems**
 - ⚡ Passionate about **tech + martial arts** 🥋💻
 - 🔭 I’m working on self-improvement every day
-- 📫 Reach me at: [ใส่อีเมลหรือ LinkedIn ได้ตรงนี้]
+- 📫 Reach me at: [phonkit.n@ku.th]
 
 ---
 
