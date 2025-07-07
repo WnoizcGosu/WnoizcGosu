@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ponlaklit Nianparn</h1>
+<h3 align="center">Aspiring Developer | C++ · Python · Embedded · AI</h3>
 
-<!--
-**WnoizcGosu/WnoizcGosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WnoizcGosu&theme=gruvbox&no-frame=true&row=1&margin-w=20" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WnoizcGosu&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WnoizcGosu&layout=compact&theme=tokyonight&hide_progress=true" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm currently learning **C++, Python, Machine Learning, and Embedded Systems**
+- ⚡ Passionate about **tech + martial arts** 🥋💻
+- 🔭 I’m working on self-improvement every day
+- 📫 Reach me at: [ใส่อีเมลหรือ LinkedIn ได้ตรงนี้]
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WnoizcGosu&label=Profile%20views&color=0e75b6&style=flat" alt="WnoizcGosu" />
+</p>
