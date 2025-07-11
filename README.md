@@ -17,12 +17,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 I'm currently learning **C++, Python, Machine Learning, and Embedded Systems**
-- ⚡ Passionate about **tech + martial arts** 🥋💻
-- 🔭 I’m working on self-improvement every day
-- 📫 Reach me at: [phonkit.n@ku.th]
 
 ---
 
