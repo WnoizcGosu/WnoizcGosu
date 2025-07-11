@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Ponlaklit Nianparn</h1>
-<h3 align="center">Aspiring Developer | C++ · Python · Embedded · AI</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WnoizcGosu&theme=gruvbox&no-frame=true&row=1&margin-w=20" />
